@@ -7,7 +7,7 @@
     2. Change the 'RepoURL' variable below to your repository link.
 ]]
 
-local RepoURL = "https://raw.githubusercontent.com/USER/REPO/main/"
+local RepoURL = "https://github.com/vvs-z7x/xan.cc/tree/main"
 
 -- ======================= CLEANUP =======================
 if getgenv().XanCC_Loaded then
